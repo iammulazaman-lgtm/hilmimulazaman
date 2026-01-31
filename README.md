@@ -1,14 +1,14 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="30%" valign="top" bgcolor="#F4F4F4" style="padding: 20px; border-right: 1px solid #DDDDDD;">
+    <td width="30%" valign="top" bgcolor="#F9F9F9" style="padding: 25px; border-right: 1px solid #EEEEEE;">
       <div align="center">
-        <img src="foto-hilmi.jpg.jpg" width="150" style="border-radius: 10px; border: 3px solid #2e3d49;">
+        <img src="LINK_FOTO_YANG_SUDAH_DIUPLOAD" width="160" style="border-radius: 8px; border: 2px solid #333;">
         <br><br>
-        <h2 style="margin-bottom: 0;">HILMI MULAZAMAN</h2>
-        <p style="margin-top: 5px;">S.Hum.</p>
+        <h2 style="margin-bottom: 5px;">HILMI MULAZAMAN</h2>
+        <p style="margin-top: 0; color: #555;">S.Hum.</p>
       </div>
-      <br>
-      <strong>CONTACT</strong>
+      <br><br>
+      <strong>KONTAK</strong>
       <hr>
       📍 Lamongan, Jawa Timur<br><br>
       📞 0889-8976-4121<br><br>
@@ -23,7 +23,7 @@
         <li><b>Technical Tools:</b> Microsoft Office Suite (Word, Excel, PowerPoint), Manajemen Arsip Fisik & Digital.</li>
       </ul>
     </td>
-    <td width="70%" valign="top" style="padding: 20px;">
+    <td width="70%" valign="top" style="padding: 25px;">
       <h3>PROFIL PROFESIONAL</h3>
       <p>Lulusan Sejarah Peradaban Islam (IPK 3.44) yang memiliki latar belakang kuat di bidang administrasi legal dan manajemen operasional. Memiliki pengalaman 1,5 tahun dalam mengelola dokumen hukum yang kompleks (Notaris) dan koordinasi harian (PPSM). Terbiasa bekerja dalam dinamika lapangan yang tinggi, mengedepankan komunikasi solutif, dan memiliki integritas profesional untuk mendukung efisiensi operasional di industri penerbitan.</p>
       <br>
@@ -60,4 +60,5 @@
   </tr>
 </table>
 
-<p align="center" style="color: grey; font-size: 12px;"><i>"Menyusun administrasi dengan ketelitian sejarah, membangun integritas untuk masa depan."</i></p>
+---
+<p align="center"><i>"Menyusun administrasi dengan ketelitian sejarah, membangun integritas untuk masa depan."</i></p>
