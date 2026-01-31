@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="160" valign="top">
-      <img src="PASTE_LINK_FOTO_DI_SINI" width="150" style="border-radius: 8px;">
+      <img src="file:///C:/Users/computer/Downloads/foto-hilmi.jpg.jpg" width="150" style="border-radius: 8px;">
     </td>
     <td valign="top" style="padding-left: 15px;">
       📍 Lamongan, Jawa Timur<br>
