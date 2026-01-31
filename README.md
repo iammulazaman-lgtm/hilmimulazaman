@@ -2,7 +2,7 @@
   <tr>
     <td width="30%" valign="top" bgcolor="#F4F4F4" style="padding: 20px; border-right: 1px solid #DDDDDD;">
       <div align="center">
-        <img src="file:///C:/Users/computer/Downloads/foto-hilmi.jpg.jpg" width="150" style="border-radius: 10px; border: 3px solid #2e3d49;">
+        <img src="foto-hilmi.jpg.jpg" width="150" style="border-radius: 10px; border: 3px solid #2e3d49;">
         <br><br>
         <h2 style="margin-bottom: 0;">HILMI MULAZAMAN</h2>
         <p style="margin-top: 5px;">S.Hum.</p>
